@@ -1,35 +1,44 @@
-# ERR_404_BitKraft
-
-Our problem statement is to find a way to display the number of unique visits on a particular product that is spread across different ecommerce stores built on Wordpress, Magento, and Shopify. This means that there needs to be a way to track the visits to the product page across different platforms and display the total number of unique visits in a consolidated manner.
-
-# Features
-
-1. Customized shopping cart for add and remove products anytime
-2. Provides unique number of visitors on the website
-3. Different Payment options
-4. Checkout Option
-
-# Requirements
-1. GitHub Id
-2. Xampp
-3. IDE (eg. VScode,Pycharm)
-4. Python
-5. Firebase
-
-# Working On Project
-Please refer to each project's style and contribution guidelines for submitting patches and additions.
-
-1. Fork this Project In Your GitHub Account.
-2. Pull the Project In Your Local Machine
-3. Do necessary changes in the project.
-4. Then add your changes to staging area
-5. Then commit your changes
-6. Then push your project
-7. Create pull Request(PR) From GitHub
-8. Now Wait to Get your PR accepted
-
-Done 😊
-
-# Issues
-
-Feel free to submit issue
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+<body>
+  <div class="container">
+    <h1>🚀 ERR_404_BitKraft</h1>
+    <p>
+      Our goal is to track the number of unique visits for a particular product across various e-commerce stores built on platforms like WordPress, Magento, and Shopify. This will enable us to consolidate and display the total number of unique visits to the product page, regardless of platform.
+    </p>
+    <h2>✨ Features</h2>
+    <ul>
+      <li><span class="feature-icon">🛒</span>Customized shopping cart to add and remove products anytime</li>
+      <li><span class="feature-icon">📈</span>Displays unique visitor count for each product</li>
+      <li><span class="feature-icon">💳</span>Multiple payment options</li>
+      <li><span class="feature-icon">✅</span>Simple checkout option</li>
+    </ul>
+    <h2>🔧 Requirements</h2>
+    <ul>
+      <li><span class="req-icon">🌐</span>GitHub Account</li>
+      <li><span class="req-icon">🖥️</span>XAMPP</li>
+      <li><span class="req-icon">💻</span>IDE (e.g., VS Code, PyCharm)</li>
+      <li><span class="req-icon">🐍</span>Python</li>
+      <li><span class="req-icon">🔥</span>Firebase</li>
+    </ul>
+    <h2>🛠️ Working On The Project</h2>
+    <p>Please refer to each project's guidelines for style and contributions.</p>
+    <ol>
+      <li><span class="step-icon">🍴</span>Fork this project to your GitHub account.</li>
+      <li><span class="step-icon">⬇️</span>Pull the project to your local machine.</li>
+      <li><span class="step-icon">✏️</span>Make necessary changes to the project.</li>
+      <li><span class="step-icon">➕</span>Add your changes to the staging area.</li>
+      <li><span class="step-icon">💾</span>Commit your changes.</li>
+      <li><span class="step-icon">⬆️</span>Push the changes to GitHub.</li>
+      <li><span class="step-icon">🔀</span>Create a Pull Request (PR) on GitHub.</li>
+      <li><span class="step-icon">⌛</span>Wait for your PR to be reviewed and accepted.</li>
+    </ol>
+    <h2>🐞 Issues</h2>
+    <p>Feel free to submit any issues or feature requests through the <a href="https://github.com" target="_blank">GitHub Issues page</a>.</p>
+  </div>
+</body>
+</html>
